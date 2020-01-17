@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">MemeSnake</string>
+    <string name="login_button">Login</string>
+    <string name="user_login">User Name</string>
+    <string name="access_token">Access Token</string>
+    <string name="org_id">Organization ID</string>
+    <string name="login_fields_warning">You must fill all the fields!</string>
+    <string name="login_invalid">Wrong login credentials!</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="Profile">Profile</string>
+    <string name="Memes">My Memes</string>
+    <string name="logout_button">Logout</string>
+    <string name="nav_header_desc">Profile Picture</string>
+    <string name="no_email">No email :(</string>
+    <string name="message_text">Write Message</string>
+    <string name="placeholder_text" translatable="false">Lorem ipsum dolor sit amet, vel, tincidunt in orci. Praesent euismod consectetur lacus a gravida. Proin eget ex faucibus, sollicitudin tortor nec, vulputate sem. Nam egestas justo suscipit velit egestas consequat.</string>
+</resources>
